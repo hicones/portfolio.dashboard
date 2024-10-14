@@ -1,0 +1,19 @@
+{
+  "trailingComma": "es5",
+  "semi": true,
+  "tabWidth": 2,
+  "singleQuote": false,
+  "jsxSingleQuote": false,
+  "arrowParens": "always",
+  "bracketSameLine": false,
+  "bracketSpacing": true,
+  "embeddedLanguageFormatting": "auto",
+  "endOfLine": "auto",
+  "htmlWhitespaceSensitivity": "css",
+  "ignorePath": ".prettierignore",
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "singleAttributePerLine": false,
+  "useEditorConfig": true,
+  "withNodeModules": false
+}
